@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-Stack Developer working in Tangier, Morocco.
+I'm a Full-Stack Developer based in Tangier, Morocco.
 ---
 ## ⚡ Technologies
 
