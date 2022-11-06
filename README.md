@@ -22,7 +22,7 @@ I'm a Full-Stack Developer based in Tangier, Morocco.
 
 - 🔭 I’m currently working as **Software Engineer **
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.css`, `.php`, `.psd`, `.html`
-- 🌱 I’m currently learning **AWS - AZURE**
+- 🌱 I’m currently learning **AWS - CGP**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
